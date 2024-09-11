@@ -1,0 +1,13 @@
+p{
+    background: rgb(161, 226, 161);
+    margin-top: 30px;
+    margin-left: 40px;
+    margin-right: 100px;
+ border:3px dashed yellow;
+}
+
+div {
+    background: rgb(255, 18, 18);
+    padding-left: 50px;
+    padding-bottom: 40px;
+}
